@@ -45,14 +45,24 @@
 
 ---
 
-### 📌 Featured Projects
-- 🔒 **[Privacy-Preserving LLM Training](#)** — Federated Learning + Differential Privacy (Opacus, Flower, HuggingFace).  
-- 🗣️ **[Real-Time Speech-to-Speech Translator](#)** — Speech Recognition → Translation → Speech Synthesis.  
-- 🤖 **[Transfer Learning for Domain Adaptation](#)** — LLM-based adaptation in Finance & Legal NLP.  
-- 📊 **[ML PCA Project](#)** — Dimensionality reduction & visualization using Principal Component Analysis.  
-- 🏙️ **[Smart City Waste Collection](#)** — Optimized waste management system with IoT & ML.  
+## 🔬 Featured Projects  
 
-👉 Check out more on my [GitHub Repositories](https://github.com/shreehari-menon?tab=repositories).  
+- 🧠 **Privacy-Preserving LLM Training**  
+  Federated Learning + Differential Privacy for safe and scalable LLMs  
+  [🔗 Repo](#)  
+
+- 🏙️ **SmartCity Waste Collection System**  
+  Optimized route planning & IoT integration for efficient waste collection  
+  [🔗 Repo](#)  
+
+- 📊 **ML with PCA**  
+  Dimensionality reduction for better visualization & insights in ML models  
+  [🔗 Repo](#)  
+
+- 🗣️ **Real-Time Speech-to-Speech Translator**  
+  ASR + Machine Translation + TTS pipeline | IEEE Paper Presented @ ICDCECE 2025  
+  [🔗 Repo](#)  
+
 
 ---
 
