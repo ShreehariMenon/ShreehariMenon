@@ -42,28 +42,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-
----
-
-## 🔬 Featured Projects  
-
-- 🧠 **Privacy-Preserving LLM Training**  
-  Federated Learning + Differential Privacy for safe and scalable LLMs  
-  [🔗 Repo](#)  
-
-- 🏙️ **SmartCity Waste Collection System**  
-  Optimized route planning & IoT integration for efficient waste collection  
-  [🔗 Repo](#)  
-
-- 📊 **ML with PCA**  
-  Dimensionality reduction for better visualization & insights in ML models  
-  [🔗 Repo](#)  
-
-- 🗣️ **Real-Time Speech-to-Speech Translator**  
-  ASR + Machine Translation + TTS pipeline | IEEE Paper Presented @ ICDCECE 2025  
-  [🔗 Repo](#)  
-
-
 ---
 
 ### 📫 Connect With Me
